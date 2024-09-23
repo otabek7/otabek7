@@ -7,4 +7,4 @@ Welcome to my GitHub Page.
 - ✏️ Tools I have used:
 
 ![Otabek's GitHub stats](https://github-readme-stats.vercel.app/api?username=otabek7&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otabek7&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otabek7&layout=compact&langs_count=8)
