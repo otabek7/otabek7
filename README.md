@@ -6,4 +6,4 @@ Welcome to my GitHub Page.
 - 💻 Languages I have used:
 - ✏️ Tools I have used:
 
-[![Otabek's GitHub stats](https://github-readme-stats.vercel.app/api?username=otabek7&show_icons=true&theme=radical)
+[![Otabek's GitHub stats](https://github-readme-stats.vercel.app/api?username=otabek7&show_icons=true&theme=dark)]
