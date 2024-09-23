@@ -5,3 +5,4 @@ Welcome to my GitHub Page.
 - 📫 Reach out to me: via LinkedIn (link in bio).
 - 💻 Languages I have used:
 - ✏️ Tools I have used:
+[![Otabek's GitHub stats](https://github-readme-stats.vercel.app/api?username=otabek7)](https://github.com/otabek7/github-readme-stats)
