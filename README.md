@@ -3,7 +3,7 @@
 
 <ul>
   <li>🌱I’m currently learning: Mobile Development.</li>
-  <li>📫Reach out to me: via LinkedIn (link in bio).</li>
+  <li>📫Reach out to me: via <a href=https://linkedin.com/in/mavlonovo/>LinkedIn</a>.</li>
 </ul>
 
 <hr></hr>
