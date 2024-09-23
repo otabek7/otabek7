@@ -2,8 +2,8 @@
 <h3>Welcome to my GitHub Page!</h3>
 
 <ul>
-  <li><h5>🌱I’m currently learning: Mobile Development.</h5></li>
-  <li><h5>📫Reach out to me: via LinkedIn (link in bio).</h5></li>
+  <li>🌱I’m currently learning: Mobile Development.</li>
+  <li>📫Reach out to me: via LinkedIn (link in bio).</li>
 </ul>
 
 <hr></hr>
