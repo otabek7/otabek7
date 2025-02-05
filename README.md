@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy! 👋
 <h3>Welcome to my GitHub Page!</h3>
 
 <ul>
