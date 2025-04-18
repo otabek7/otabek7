@@ -1,4 +1,4 @@
-## Howdy! 👋 I am Otabek.
+<h1 align="center"> Howdy! <img width="30px" src="https://github.com/bsovs/bsovs/blob/main/assets/hi.gif"> I am Otabek. </h1>
 <h3>Welcome to my GitHub Page!</h3>
 
 <ul>
