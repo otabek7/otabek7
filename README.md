@@ -2,9 +2,9 @@
 <h3>Welcome to my GitHub Page!</h3>
 
 <ul>
-  <li>🌱I’m currently learning: Mobile Development.</li>
+  <li>📱I’m currently learning: Mobile Development.</li>
   <li>📫Reach out to me: via <a href=https://linkedin.com/in/mavlonovo/>LinkedIn</a>.</li>
-  <li>I like to fish, work on cars, and lift during my free time.</li>
+  <li>I like to fish 🐟, work on cars 🔧, and travel during my free time!✈️</li>
 </ul>
 
 <hr></hr>
