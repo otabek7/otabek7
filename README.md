@@ -8,11 +8,10 @@
 
 <hr></hr>
 
-<h3>Reach out to me:
-  
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mavlonovo/)
+<h3>Reach out to me:</h3>
 
-</h3>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mavlonovo/)
+
   
 <hr></hr>
 
