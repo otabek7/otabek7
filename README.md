@@ -15,6 +15,6 @@
   
 <hr></hr>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,react,azure,express,docker,cpp,mongodb,linux,kotlin,npm,postman,qt,sqlite)]()
+[![My Skills](https://skillicons.dev/icons?i=js,java,nodejs,react,azure,express,docker,cpp,mongodb,linux,kotlin,npm,qt,sqlite)]()
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otabek7&layout=compact&langs_count=8&theme=dark)
