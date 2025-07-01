@@ -15,6 +15,26 @@
   
 <hr></hr>
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,nodejs,react,azure,express,docker,cpp,mongodb,linux,kotlin,npm,qt,sqlite)]()
+<h1>My Tech Stack</h1>
+
+<h3>🧩 Front-end</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,flutter,qt,androidstudio,bootstrap)]()
+
+<h3>🔧 Back-end & Languages</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=java,php,python,cpp,kotlin,nodejs,express,spring,laravel,matlab,pytorch)]()
+
+<h3>☁️ Cloud & Databases</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=azure,firebase,mongodb,postgresql,mysql)]()
+
+
+<h3>🛠️ DevOps, Tools & Workflow</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode,idea,webstorm,phpstorm,pycharm,npm,powershell)]()
+
+<hr></hr>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otabek7&layout=compact&langs_count=8&theme=dark)
