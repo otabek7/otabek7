@@ -2,7 +2,6 @@
 <h3>Welcome to my GitHub Page!</h3>
 
 <ul>
-  <li>📱I’m currently learning: Mobile Development.</li>
   <li>I like to fish 🐟, work on cars 🔧, and travel during my free time!✈️</li>
 </ul>
 
