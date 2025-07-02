@@ -1,15 +1,14 @@
-<h1 align="center"> Howdy! <img width="30px" src="https://github.com/bsovs/bsovs/blob/main/assets/hi.gif"> I am Otabek. </h1>
-<h3>Welcome to my GitHub Page!</h3>
+<h1 align="center"> Howdy! <img width="30px" src="https://github.com/bsovs/bsovs/blob/main/assets/hi.gif"> I'm <a href="https://www.linkedin.com/in/mavlonovo/">Otabek!</a></h1>
+<p align="center"> 
+	<a href="https://www.linkedin.com/in/mavlonovo/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+	</a>
+</p>
 
+<h3>Welcome to my GitHub Page!</h3>
 <ul>
   <li>I like to fish 🐟, work on cars 🔧, and travel during my free time!✈️</li>
 </ul>
-
-<hr></hr>
-
-<h3>Reach out to me:</h3>
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mavlonovo/)
 
   
 <hr></hr>
