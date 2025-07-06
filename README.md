@@ -31,8 +31,3 @@
 <h3>🛠️ DevOps, Tools & Workflow</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode,idea,webstorm,phpstorm,pycharm,npm,powershell)]()
-
-<hr></hr>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otabek7&layout=compact&langs_count=8&theme=dark)
